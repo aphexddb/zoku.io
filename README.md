@@ -30,4 +30,4 @@ A __Zoku__ will cause behavior of members to gravitate toward __Zoku__ goals ove
 
 ## Using Zoku.io
 
-You have 
+You have the invitation, yes?
